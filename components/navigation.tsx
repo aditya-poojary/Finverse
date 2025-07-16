@@ -11,18 +11,18 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { NavButton } from "./nav-button";
 
 const routes = [
-  {
-    href: "/",
-    label: "Overview",
-  },
+  // {
+  //   href: "/",
+  //   label: "Overview",
+  // },
   {
     href: "/transactions",
     label: "Transactions",
   },
-  {
-    href: "/accounts",
-    label: "Accounts",
-  },
+  // {
+  //   href: "/accounts",
+  //   label: "Accounts",
+  // },
   {
     href: "/categories",
     label: "Categories",
